@@ -1,7 +1,7 @@
 ```
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to my profile!");
+        System.out.println("Welcome to my profile! But I don't post anything publicly here :)");
     }
 }
 ```
